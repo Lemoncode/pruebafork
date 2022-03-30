@@ -1,3 +1,2 @@
 # TypeScript generator
 
-Prueba generator
